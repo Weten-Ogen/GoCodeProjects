@@ -1,7 +1,6 @@
 # this is a tryout 
 
 print('hello fire')
-
 # pull request 
 # git log 
 # git status
@@ -10,3 +9,5 @@ print('hello fire')
 # git push or (git pull... git fetch )pull request
 # staging area ,commiting, merging 
 # 
+
+
